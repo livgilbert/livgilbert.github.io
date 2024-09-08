@@ -1,0 +1,109 @@
+{
+  "name": "Liv Gilbert",
+  "contact": [
+    "+1 (619-272-1928)",
+    "liviagilbert@protonmail.com",
+    "https://livs.work",
+    "https://linkedin.com/livgilbert",
+    "https://github.com/livgilbert"
+  ],
+  "skills": [
+    {
+      "type": "Frontend",
+      "content": [
+        "React.js",
+        "Sass/SCSS",
+        "Material UI",
+        "Basscss",
+        "jQuery",
+        "JavaScript",
+        "TypeScript"
+      ]
+    },
+    {
+      "type": "Backend",
+      "content": [
+        "Firebase",
+        "Node.js",
+        "Express"
+      ]
+    },
+    {
+      "type": "Miscellaneous",
+      "content": [
+        "Vite",
+        "Liquid",
+        "Git",
+        "Jekyll",
+        "GitHub Actions",
+        "Python",
+        "Microsoft Office Suite",
+        "Adobe Suite",
+        "Linux"
+      ]
+    }
+  ],
+  "education": {
+    "university": "UC San Diego",
+    "content": [
+      "Majoring in mathematics and minoring in political science",
+      "3.82 GPA, expected graduation June of 2025",
+      "Relevant coursework includes Analysis, Abstract Algebra, Graph Theory, Mathematical Software"
+    ]
+  },
+  "experience": [
+    {
+      "org": "UCSD IT Services",
+      "location": "San Diego, CA",
+      "positions": [{
+        "title": "Help Desk Assistant",
+        "timeframe": "2024-present",
+        "content": [
+          "Provided customer support to faculty, staff, and students",
+          "Collaborated with a large team to ensure availability and stability of the university network"
+        ] 
+      }]
+    },
+    {
+      "org": "TeachAids",
+      "location": "Palo Alto, CA",
+      "positions": [
+        {
+          "title": "Project Leader",
+          "timeframe": "2024",
+          "content": [
+            "Planned the migration of TeachAids.org, a large WordPress site with approximately (x) monthly users and over (x) pages to (cms), with a focus on long-term customizability and longevity, and led a team of 3 interns to successfully execute the migration.",
+            "Utilized React.js, Sass, Basscss, and Material UI to re-implement the existing design in an accessible and responsive format, and set up deployment to Firebase via GitHub Actions",
+            "Built a custom-built static site generation plugin for Vite for development and builds"
+          ] 
+        },
+        {
+          "title": "Intern Web Developer",
+          "timeframe": "2020-2024",
+          "content": [
+            "Collaborated with a team of over 20 college students and industry professionals to use React.js, Material UI, and Basscss to implement the UIs for the CrashCourse Story Wall and CoviDB",
+            "Maintained an automated content collection and AI-powered article summarization system for the 5,000+ articles in CoviDB, written in Python and automated via GitHub Actions"
+          ] 
+        }
+      ]
+    },
+    {
+      "org": "UCSD Power Transformation Lab",
+      "location": "San Diego, CA",
+      "positions": [{
+        "title": "Developer",
+        "timeframe": "2023-2024",
+        "content": [
+          "Collaborated with Professor Michael Davidson and a graphic designer to rebuild pwrlab.org into a modern, mobile friendly, and highly accessible website.",
+          "Used complex features of Jekyll and Liquid to make the site easily modifiable and extensible, including ensuring seamless compatibility with content written for the previous iteration",
+          "Documented the custom features of the new site, enabling Professor Davidson to modify content as needed."
+
+        ] 
+      }]
+    }
+  ],
+  "recognitions": [
+    "TeachAids Global Health Fellow",
+    "UC San Diego Provost Honors"
+  ]
+}

@@ -1,0 +1,11 @@
+<ul class="{{ulclasses}}">
+{{#each this}}
+  {{#if (isInteger @key) }}
+    <li class="{{../liclasses}}">{{this}}
+    {{#if ../sep}}
+    {{../sep}}
+    {{/if}}
+    </li>
+  {{/if}}
+{{/each}}
+</ul>
